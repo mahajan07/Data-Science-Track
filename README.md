@@ -50,8 +50,8 @@ https://www.edx.org/course/analytics-storytelling-impact-1
 Week 4 Kaggle Project #3
 Try your best at a competition of your choice from Kaggle.
 
-2.Machine Learning Track
-Month 1
+### 2.Machine Learning Track
+### Month 1
 Week 1 Linear Algebra
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
@@ -64,7 +64,7 @@ https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 Week 4 Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
-Month 2
+### Month 2
 Week 1
 Learn python for data science
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
@@ -81,7 +81,7 @@ Intro to ML (Udacity) https://eu.udacity.com/course/intro-to-machine-learning--u
 Week 3-4
 ML Project Ideas https://github.com/NirantK/awesome-project-ideas
 
-Month 3 (Deep Learning)
+### Month 3 (Deep Learning)
 Week 1
 Intro to Deep Learning https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 
@@ -97,7 +97,7 @@ This folder contains all deep learning & Computer Science Track.
 It contains links to Machine Learning & Data Science Courses, books, Practice Papers, Interview, Videos, Jupyter Notebooks of many projects everything you need to know. All links connect your best Medium blogs, Youtube, Top universities free courses.
 We are really thankful to all contributors.
 
-Interview practices
+### Interview practices
 Blogs & pdfs
 https://drive.google.com/file/d/1CL7Blkfelpcj3snyARvRXKVX6KDysLQs/view?usp=drivesdk
 Booklists provided by MIT (most of them are free)
@@ -109,23 +109,11 @@ Python & Machine Learning books(Programming, Applied Statistics with R…Etc)
 https://mega.nz/folder/NmQRlaBa#0FKTDkkHYBmkSmcEu0kGoQ
 If you want any other book & you don't want to purchase then please share the cover image of the book I will try to send a link to the complete pdf. I will upload the link of some of them in this blog in the future.
 
-Complete Guide & Course of Quantum Machine Learning
+### Complete Guide & Course of Quantum Machine Learning
 If you are interested in Physics & Philosophy then you will get ultimate links of teachers, videos, courses, companies (IBM, Google, Microsoft..Etc) developments, quantum machine learning codes(Actually all are in the developing phase but you can start with Q# or q sharp with developing some understanding in Complex Numbers)…From here
 https://drive.google.com/file/d/1Dy2oEsWazYlvKuqDPjEDh-79ywm_hiJX/view?usp=drivesdk
 
-If you had just joined the kaggle
-If you are starting from zero, you will get everything in my previous post.
-◆All Pdfs
-Rest of the topic PDFs each having at least 8 Topics with concepts, codes & Examples.
-1.Python
-https://1drv.ms/f/s!AsZgYh4LWHp-gbMrSNPbwvdYjTflHA
-2.ML
-https://1drv.ms/f/s!AsZgYh4LWHp-gbM46gi48EZ7339byg
-3.AI & Deep learning
-https://1drv.ms/f/s!AsZgYh4LWHp-gbNDC5_OWQ_LQwEs5Q
-4.NLP
-https://1drv.ms/f/s!AsZgYh4LWHp-gbM5O4NFj2_1se_sKg
-I wish you will get some confidence after going through the above 6 links
+
 
 Dependencies of Analysis
 For the links & documents, I'm providing here,
